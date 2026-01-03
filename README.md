@@ -1,11 +1,8 @@
 #  About Me
 
- Currently building **hands-on Excel projects** (data cleaning, analysis, dashboards)  
- Learning **Excel (Intermediate–Advanced)** and **SQL for Data Analysis**  
- Open to collaborating on **beginner-friendly data analysis projects**  
- Looking to improve **SQL problem-solving** and make projects **interview-ready**  
- Ask me about **Excel formulas, data cleaning, and SQL basics**  
- Fun fact: I enjoy simplifying complex topics into practical explanations  
+Currently transitioning into a Data Analyst role with a strong focus on Excel and SQL.
+Developing analytical skills through real-world datasets and hands-on projects.
+Improving problem-solving, data interpretation, and business understanding.  
 
 ---
 
