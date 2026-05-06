@@ -25,8 +25,8 @@ Data Analyst with hands-on experience in Excel, SQL, and Power BI, focused on so
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatiyad01&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=swatiyad01&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiyad01&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiyad01&layout=compact&theme=tokyonight" />
 
 
