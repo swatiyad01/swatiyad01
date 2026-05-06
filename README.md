@@ -1,6 +1,6 @@
 #  About Me
 
-Aspiring Data Analyst skilled in Excel, SQL, and Power BI, focused on transforming data into actionable business insights through hands-on projects.
+Data Analyst with hands-on experience in Excel, SQL, and Power BI, focused on solving business problems through data analytics.
 ---
 
 ##  Socials
@@ -23,9 +23,9 @@ Aspiring Data Analyst skilled in Excel, SQL, and Power BI, focused on transformi
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatiyad01&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatiyad01&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiyad01&layout=compact&theme=tokyonight)
 
