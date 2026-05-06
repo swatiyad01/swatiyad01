@@ -24,9 +24,10 @@ Aspiring Data Analyst skilled in Excel, SQL, and Power BI, focused on transformi
 ---
 
 ##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=swatiyad01&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=swatiyad01&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiyad01&theme=dark&hide_border=false&layout=compact)
+
+![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatiyad01&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiyad01&layout=compact&theme=tokyonight)
 
 ---
 
