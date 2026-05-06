@@ -1,9 +1,6 @@
 #  About Me
 
-Currently transitioning into a Data Analyst role with a strong focus on Excel and SQL.
-Developing analytical skills through real-world datasets and hands-on projects.
-Improving problem-solving, data interpretation, and business understanding.  
-
+Aspiring Data Analyst skilled in Excel, SQL, and Power BI, focused on transforming data into actionable business insights through hands-on projects.
 ---
 
 ##  Socials
